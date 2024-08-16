@@ -1,0 +1,14 @@
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\SoNguyenTo\bin\Debug\net8.0\SoNguyenTo.exe
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\SoNguyenTo\bin\Debug\net8.0\SoNguyenTo.deps.json
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\SoNguyenTo\bin\Debug\net8.0\SoNguyenTo.runtimeconfig.json
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\SoNguyenTo\bin\Debug\net8.0\SoNguyenTo.dll
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\SoNguyenTo\bin\Debug\net8.0\SoNguyenTo.pdb
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\SoNguyenTo\obj\Debug\net8.0\SoNguyenTo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\SoNguyenTo\obj\Debug\net8.0\SoNguyenTo.AssemblyInfoInputs.cache
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\SoNguyenTo\obj\Debug\net8.0\SoNguyenTo.AssemblyInfo.cs
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\SoNguyenTo\obj\Debug\net8.0\SoNguyenTo.csproj.CoreCompileInputs.cache
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\SoNguyenTo\obj\Debug\net8.0\SoNguyenTo.dll
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\SoNguyenTo\obj\Debug\net8.0\refint\SoNguyenTo.dll
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\SoNguyenTo\obj\Debug\net8.0\SoNguyenTo.pdb
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\SoNguyenTo\obj\Debug\net8.0\SoNguyenTo.genruntimeconfig.cache
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\SoNguyenTo\obj\Debug\net8.0\ref\SoNguyenTo.dll
